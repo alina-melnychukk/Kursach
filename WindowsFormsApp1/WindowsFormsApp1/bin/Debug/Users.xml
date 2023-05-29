@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserList>
+    <User>
+      <Name>andrew</Name>
+      <Password>123</Password>
+      <Calories>901.6</Calories>
+    </User>
+    <User>
+      <Name>alina123</Name>
+      <Password>12345678</Password>
+      <Calories>781.24</Calories>
+    </User>
+    <User>
+      <Name>sasha</Name>
+      <Password>1234</Password>
+      <Calories>0</Calories>
+    </User>
+    <User>
+      <Name>vladik</Name>
+      <Password>123</Password>
+      <Calories>442.24</Calories>
+    </User>
+    <User>
+      <Name>olenka</Name>
+      <Password>123</Password>
+      <Calories>121.85</Calories>
+    </User>
+    <User>
+      <Name>123</Name>
+      <Password>123</Password>
+      <Calories>0</Calories>
+    </User>
+  </UserList>
+</Users>
